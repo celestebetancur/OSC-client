@@ -1,0 +1,9 @@
+<PORTS>
+    <NAME>
+        <ME>5000</ME>
+        <IP1>172.16.248.151</IP1>
+        <IP2>192.168.1.71</IP2>
+        <IP3>0000</IP3>
+        <LOCAL>5001</LOCAL>
+    </NAME>
+</PORTS>
